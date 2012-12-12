@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="lib" path="libs/fastjson-1.1.25-android.jar"/>
+	<classpathentry exported="true" kind="lib" path="D:/程序练习/Android/Aquery/android-query-full.0.23.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/ormlite-android-4.42.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/ormlite-core-4.42.jar"/>
+	<classpathentry exported="true" kind="lib" path="libs/nineoldandroids-2.4.0.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
